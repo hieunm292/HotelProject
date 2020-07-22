@@ -32,7 +32,7 @@
                             </div>
                         </li>
                         <li class="nav-item"><a href="Amennity.jsp" class="nav-link">Amenities</a></li>
-                        <li class="nav-item"><a href="Booking.jsp" class="nav-link">Booking</a></li>
+                        <li class="nav-item"><a href="Book.jsp" class="nav-link">Booking</a></li>
                         <li class="nav-item"><a href="Contact.jsp" class="nav-link">Contact</a></li>
                         <li class="nav-item"><a href="SignInForm.jsp" class="nav-link">Sign In</a></li>
                     </ul>

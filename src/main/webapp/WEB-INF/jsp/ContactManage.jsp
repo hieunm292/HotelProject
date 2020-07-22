@@ -42,7 +42,7 @@
                 <hr class="sidebar-divider my-0">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="CustomerManage.jsp">
+                    <a class="nav-link" href="index.html">
                         <i class="fas fa-fw fa-tachometer-alt"></i>
                         <span>Dashboard</span></a>
                 </li>
@@ -160,10 +160,7 @@
                                                 <th>Name</th>
                                                 <th>ID</th>
                                                 <th>Email</th>
-                                                <th>BirthDate</th>
-                                                <th>Check-In</th>
-                                                <th>Check-Out</th>
-                                                <th>Type Room</th>
+                                                <th>Content</th>
                                                 <th>Edit</th>
                                             </tr>
                                         </thead>
@@ -172,10 +169,7 @@
                                                 <td>Tiger Nixon</td>
                                                 <td>001</td>
                                                 <td>abc@gmail.com</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>Deluxe Room</td>
+                                                <td>I wanna book a room</td>
                                                 <td><div class="btn-group" role="group">
                                                         <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                             Edit
@@ -191,10 +185,7 @@
                                                 <td>Garrett Winters</td>
                                                 <td>002</td>
                                                 <td>abc@gmail.com</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>Deluxe Room</td>
+                                                <td>I wanna book a room</td>
                                                 <td><div class="btn-group" role="group">
                                                         <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                             Edit
@@ -210,10 +201,7 @@
                                                 <td>Ashton Cox</td>
                                                 <td>003</td>
                                                 <td>abc@gmail.com</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>Deluxe Room</td>
+                                                 <td>I wanna book a room</td>
                                                 <td><div class="btn-group" role="group">
                                                         <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                             Edit
@@ -229,10 +217,7 @@
                                                 <td>Cedric Kelly</td>
                                                 <td>004</td>
                                                 <td>abc@gmail.com</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>Deluxe Room</td>
+                                                 <td>I wanna book a room</td>
                                                 <td><div class="btn-group" role="group">
                                                         <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                             Edit
@@ -248,10 +233,7 @@
                                                 <td>Airi Satou</td>
                                                 <td>005</td>
                                                 <td>abc@gmail.com</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>Deluxe Room</td>
+                                                 <td>I wanna book a room</td>
                                                 <td><div class="btn-group" role="group">
                                                         <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                             Edit
@@ -267,10 +249,7 @@
                                                 <td>Brielle Williamson</td>
                                                 <td>006</td>
                                                 <td>abc@gmail.com</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>29/03/2000</td>
-                                                <td>Deluxe Room</td>
+                                                 <td>I wanna book a room</td>
                                                 <td><div class="btn-group" role="group">
                                                         <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                             Edit
